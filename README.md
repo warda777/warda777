@@ -61,7 +61,7 @@ Serverless backend architecture built with **AWS and Terraform** to demonstrate 
 **Tech:** AWS Lambda · API Gateway · DynamoDB · Cognito · CloudFront · Terraform  
 **Focus:** cloud infrastructure, IaC, serverless backend systems
 
-🔗 https://github.com/warda777/cloud-programming-andreas-warda
+🔗 https://github.com/warda777/serverless-aws-api
 
 ---
 
