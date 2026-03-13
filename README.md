@@ -1,12 +1,14 @@
 # Hi, I'm Andreas Warda 👋
 
-Software Developer focused on **mobile apps, backend automation and cloud systems**.
+Software Developer (B.Sc.) focused on **mobile applications, backend automation and cloud infrastructure**.
 
-I build practical software projects with an emphasis on **learning systems, automation workflows, desktop software and scalable infrastructure**.
+I design and build practical software systems ranging from **learning platforms and mobile apps to automation services and serverless cloud architectures**.
+
+My projects focus on **clean architecture, scalable systems and practical real-world solutions**.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -23,40 +25,61 @@ I build practical software projects with an emphasis on **learning systems, auto
 
 ---
 
-## Featured Projects
+# Key Projects
 
-### Talvori
-A mobile language learning app implementing a **transparent spaced repetition system (SRS)** with user-focused learning logic and visual feedback.
+| Project | Description | Tech |
+|-------|-------------|------|
+| **Talvori** | Language learning app implementing a transparent spaced repetition system (SRS) with user-controlled learning logic | Flutter · Supabase |
+| **LernstilCheck** | iOS app that determines a user's dominant learning style using an interactive quiz and visual result dashboard | Swift · SwiftUI |
+| **SoloDesk** | Desktop software for managing clients, invoices and payments with a structured JavaFX interface | Java · JavaFX · SQLite |
+| **Serverless AWS API** | Cloud backend demonstrating Infrastructure as Code and scalable AWS services | AWS · Terraform |
+
+---
+
+# Featured Projects
+
+## Talvori
+Mobile language learning application implementing a **transparent spaced repetition system (SRS)** with user-controlled learning logic and visual feedback.
 
 **Tech:** Flutter · Dart · Supabase · PostgreSQL  
-**Focus:** learning algorithms, UI/UX, backend integration, transparency in adaptive systems
+**Focus:** learning algorithms, UI/UX, backend integration
 
 🔗 https://github.com/warda777/talvori
 
 ---
 
-### Webhook-Notion
-Automation service that connects **Notion databases with Telegram notifications** for task tracking, status changes and exam reminders.
+## LernstilCheck
+iOS application that determines a user's **dominant learning style** through a short quiz and visualizes results with charts and progress indicators.
+
+**Tech:** Swift · SwiftUI · Supabase  
+**Focus:** mobile UI, interactive quiz systems, data visualization
+
+🔗 https://github.com/warda777/LernstilCheck
+
+---
+
+## Webhook-Notion
+Automation service connecting **Notion databases with Telegram notifications** for task tracking and exam reminders.
 
 **Tech:** Node.js · JavaScript · Notion API · Telegram Bot API  
-**Focus:** automation, webhooks, backend scripts, real-time notifications
+**Focus:** automation workflows, backend scripting
 
 🔗 https://github.com/warda777/Webhook-Notion
 
 ---
 
-### SoloDesk
-Desktop application for managing **clients, invoices and payments** with a structured JavaFX user interface and local database integration.
+## SoloDesk
+Desktop application for managing **clients, invoices and payments** with a local SQLite database and JavaFX interface.
 
 **Tech:** Java · JavaFX · SQLite · Maven  
-**Focus:** desktop software, CRUD workflows, local data management
+**Focus:** desktop software, CRUD workflows
 
 🔗 https://github.com/warda777/solodesk
 
 ---
 
-### Cloud Programming Project
-Serverless backend architecture built with **AWS and Terraform** to demonstrate Infrastructure as Code and scalable cloud services.
+## Cloud Programming Project
+Serverless backend architecture demonstrating **Infrastructure as Code and scalable cloud services**.
 
 **Tech:** AWS Lambda · API Gateway · DynamoDB · Cognito · CloudFront · Terraform  
 **Focus:** cloud infrastructure, IaC, serverless backend systems
@@ -65,17 +88,26 @@ Serverless backend architecture built with **AWS and Terraform** to demonstrate 
 
 ---
 
-### RadioApp
-Android prototype for interacting with a radio station through playlist ratings, song requests and host overviews.
+## RadioApp
+Android prototype for interacting with a radio station through playlist ratings and song requests.
 
 **Tech:** Kotlin · Android SDK · Gradle  
-**Focus:** Android UI, mobile interaction flows, modular app structure
+**Focus:** Android UI development and mobile interaction flows
 
 🔗 https://github.com/warda777/radioapp
 
 ---
 
-## GitHub Stats
+# Currently Working On
+
+• Mobile development with **SwiftUI and Flutter**  
+• Backend automation with **Node.js and Supabase**  
+• Cloud infrastructure with **Terraform and AWS**  
+• Learning systems and algorithm-driven applications
+
+---
+
+# GitHub Stats
 
 ![Andreas' GitHub stats](https://github-readme-stats.vercel.app/api?username=warda777&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -85,22 +117,13 @@ Android prototype for interacting with a radio station through playlist ratings,
 
 ---
 
-## Current Interests
-
-- Mobile Development
-- Backend Automation
-- Cloud Infrastructure
-- Learning Systems & Algorithms
-- Practical Software Engineering
-
----
-
-## Profile Views
+# Profile Views
 
 ![](https://komarev.com/ghpvc/?username=warda777&color=blueviolet&style=flat-square)
 
 ---
 
-## Contact
+# Contact
 
-GitHub: https://github.com/warda777
+GitHub  
+https://github.com/warda777
