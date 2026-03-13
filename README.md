@@ -30,9 +30,10 @@ My projects focus on **clean architecture, scalable systems and practical real-w
 | Project | Description | Tech |
 |-------|-------------|------|
 | **Talvori** | Language learning app implementing a transparent spaced repetition system (SRS) with user-controlled learning logic | Flutter · Supabase |
-| **LernstilCheck** | iOS app that determines a user's dominant learning style using an interactive quiz and visual result dashboard | Swift · SwiftUI |
-| **SoloDesk** | Desktop software for managing clients, invoices and payments with a structured JavaFX interface | Java · JavaFX · SQLite |
+| **Webhook-Notion** | Automation service connecting Notion databases with Telegram notifications for task tracking and reminders | Node.js · Notion API · Telegram Bot |
 | **Serverless AWS API** | Cloud backend demonstrating Infrastructure as Code and scalable AWS services | AWS · Terraform |
+| **SoloDesk** | Desktop software for managing clients, invoices and payments with a structured JavaFX interface | Java · JavaFX · SQLite |
+| **LernstilCheck** | iOS learning style analysis app with an interactive quiz and visual result dashboard | Swift · SwiftUI |
 
 ---
 
@@ -45,16 +46,6 @@ Mobile language learning application implementing a **transparent spaced repetit
 **Focus:** learning algorithms, UI/UX, backend integration
 
 🔗 https://github.com/warda777/talvori
-
----
-
-## LernstilCheck
-iOS application that determines a user's **dominant learning style** through a short quiz and visualizes results with charts and progress indicators.
-
-**Tech:** Swift · SwiftUI · Supabase  
-**Focus:** mobile UI, interactive quiz systems, data visualization
-
-🔗 https://github.com/warda777/LernstilCheck
 
 ---
 
@@ -85,6 +76,16 @@ Serverless backend architecture demonstrating **Infrastructure as Code and scala
 **Focus:** cloud infrastructure, IaC, serverless backend systems
 
 🔗 https://github.com/warda777/serverless-aws-api
+
+---
+
+## LernstilCheck
+iOS application that determines a user's **dominant learning style** through a short quiz and visualizes results with charts and progress indicators.
+
+**Tech:** Swift · SwiftUI · Supabase  
+**Focus:** mobile UI, interactive quiz systems, data visualization
+
+🔗 https://github.com/warda777/LernstilCheck
 
 ---
 
